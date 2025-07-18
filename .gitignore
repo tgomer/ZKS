@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+#arduino files
+debug.cfg
+debug.svd
+debug_custom.json
+
+
