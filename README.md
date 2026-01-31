@@ -2,7 +2,7 @@
 
 ## Libraries
 
-esp32 by Espressif Systems 2.0.14 -> 3.0.0 - aplha 1 will not work
+esp32 by Espressif Systems 2.0.14 -> 3.0.0 - alpha 1 will not work
 Adafruit NeoPixel 1.11.0
 ESP32Time by fbiego 2.0.4
 ESP32TimerInterrupt by Khoi Hoang 2.3.0
