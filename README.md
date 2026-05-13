@@ -47,6 +47,8 @@ The devicename is a combination of devicename and serialnumber. (DYNAFORCE_ZKS_2
 
 [Data sheet used MCP3564 24 bit - 4 channel ADC](/https://www.mouser.de/datasheet/2/268/MCP3561_2_4_Family_Data_Sheet_DS20006181C-2257924.pdf)
 
+MCP3561_2_4_Family_Data_Sheet_DS20006181C-2257924.pdf
+
 The code for handling the ADC is in ADC.h
 
 ## Power Management
